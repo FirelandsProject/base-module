@@ -1,0 +1,17 @@
+#
+# Copyright (C) 2023+ Firelands Core Project , released under AGPL v3 license: https://github.com/FirelandsProject/firelands-cata/blob/master/LICENSE
+#
+
+[worldserver]
+
+########################################
+# My module configuration
+########################################
+#
+#    MyModule.Enable
+#        Description: Enable my module and print "Hello World" message at server start
+#        Default:     0 - Disabled
+#                     1 - Enabled
+#
+
+MyModule.Enable = 1
