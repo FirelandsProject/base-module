@@ -1,4 +1,4 @@
-# SKELETON - Module template
+# Base Module template
 
 [English](README.md) | [Español (Soon...)]()
 
