@@ -6,7 +6,7 @@
 void AddMyPlayerScripts();
 
 // Please replace the '-' in the module folder name with '_' here
-void Addskeleton_moduleScripts()
+void Addbase_modulesScripts()
 {
     AddMyPlayerScripts();
 }
